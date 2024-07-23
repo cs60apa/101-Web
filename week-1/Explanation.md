@@ -1,7 +1,5 @@
 # Basic Explaination
 
-Here is how the html file looks like.
-
 ## Basic Git commands
 
 ### List of git commands
